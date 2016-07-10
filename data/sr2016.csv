@@ -1,0 +1,150 @@
+# Super Rugby 2016 results, from https://en.wikipedia.org/wiki/2016_Super_Rugby_season
+# Modified CSV file, lines beginning with '#' are comments.
+# Columns are:
+#   Home team
+#   Away team
+#   Home team score
+#   Away team score
+#
+# Round 1 
+Blues,Highlanders,33,31
+Brumbies,Hurricanes,52,10
+Cheetahs,Jaguares,33,34
+Sunwolves,Lions,13,26
+Crusaders,Chiefs,21,27
+Waratahs,Reds,30,10
+Force,Rebels,19,25
+Kings,Sharks,8,43
+Stormers,Bulls,33,9
+# Round 2
+Crusaders,Blues,28,13
+Brumbies,Waratahs,32,15
+Chiefs,Lions,32,36
+Highlanders,Hurricanes,17,16
+Reds,Force,6,22
+Bulls,Rebels,45,25
+Cheetahs,Stormers,10,20
+Sharks,Jaguares,19,15
+# Round 3
+Blues,Hurricanes,19,23
+Force,Brumbies,14,31
+Highlanders,Lions,34,15
+Rebels,Reds,25,23
+Sunwolves,Cheetahs,31,32
+Kings,Chiefs,24,58
+Stormers,Sharks,13,18
+# Round 4
+Hurricanes,Force,41,6
+Waratahs,Highlanders,26,30
+Bulls,Sharks,16,16
+Sunwolves,Rebels,9,35
+Crusaders,Kings,57,24
+Reds,Blues,25,25
+Lions,Cheetahs,39,22
+Stormers,Brumbies,31,11
+Jaguares,Chiefs,26,30
+# Round 5
+Hurricanes,Kings,42,20
+Chiefs,Force,53,10
+Rebels,Highlanders,3,27
+Sunwolves,Bulls,27,30
+Cheetahs,Brumbies,18,25
+Sharks,Crusaders,14,19
+Jaguares,Stormers,8,13
+Reds,Waratahs,13,15
+# Round 6
+Highlanders,Force,32,20
+Lions,Crusaders,37,43
+Blues,Jaguares,24,16
+Brumbies,Chiefs,23,48
+Kings,Sunwolves,33,28
+Bulls,Cheetahs,23,18
+Waratahs,Rebels,17,21
+# Round 7
+Chiefs,Blues,29,23
+Force,Crusaders,19,20
+Stormers,Sunwolves,46,19
+Hurricanes,Jaguares,40,22
+Reds,Highlanders,28,27
+Sharks,Lions,9,24
+Kings,Bulls,6,38
+# Round 8
+Crusaders,Jaguares,32,15
+Rebels,Hurricanes,13,38
+Cheetahs,Sunwolves,92,17
+Blues,Sharks,23,18
+Waratahs,Brumbies,20,26
+Bulls,Reds,41,22
+Lions,Stormers,29,22
+# Round 9
+Highlanders,Sharks,14,15
+Rebels,Cheetahs,36,14
+Sunwolves,Jaguares,36,28
+Hurricanes,Chiefs,27,28
+Force,Waratahs,13,49
+Stormers,Reds,40,22
+Kings,Lions,10,45
+Brumbies,Crusaders,14,40
+# Round 10
+Chiefs,Sharks,24,22
+Force,Bulls,20,42
+Blues,Rebels,36,30
+Highlanders,Brumbies,23,10
+Reds,Cheetahs,30,17
+Lions,Hurricanes,17,50
+Stormers,Waratahs,30,32
+Jaguares,Kings,73,27
+# Round 11
+Crusaders,Reds,38,5
+Brumbies,Bulls,23,6
+Sunwolves,Force,22,40
+Chiefs,Highlanders,13,26
+Waratahs,Cheetahs,21,6
+Sharks,Hurricanes,32,15
+Kings,Blues,18,34
+# Round 12
+Highlanders,Crusaders,34,26
+Rebels,Brumbies,22,30
+Hurricanes,Reds,29,14
+Waratahs,Bulls,31,8
+Sunwolves,Stormers,17,17
+Cheetahs,Kings,34,20
+Lions,Blues,43,5
+Jaguares,Sharks,22,25
+# Round 13
+Crusaders,Waratahs,29,10
+Reds,Sunwolves,35,25
+Chiefs,Rebels,36,15
+Force,Blues,13,17
+Lions,Jaguares,52,24
+Sharks,Kings,53,0
+Bulls,Stormers,17,13
+# Round 14
+Hurricanes,Highlanders,27,20
+Waratahs,Chiefs,45,25
+Kings,Jaguares,29,22
+Blues,Crusaders,21,26
+Brumbies,Sunwolves,66,5
+Stormers,Cheetahs,31,24
+Bulls,Lions,20,56
+Rebels,Force,27,22
+# Round 15
+Chiefs,Crusaders,23,13
+Brumbies,Reds,43,24
+Sunwolves,Waratahs,12,57
+Hurricanes,Blues,37,27
+Rebels,Stormers,31,57
+Cheetahs,Force,30,29
+Lions,Sharks,37,10
+Kings,Highlanders,18,48
+Jaguares,Bulls,29,11
+# Round 16
+Blues,Brumbies,40,15
+Reds,Chiefs,5,50
+Lions,Kings,57,21
+Crusaders,Rebels,85,26
+Waratahs,Hurricanes,17,28
+Force,Stormers,3,22
+Bulls,Sunwolves,50,3
+Sharks,Cheetahs,26,10
+Jaguares,Highlanders,8,34

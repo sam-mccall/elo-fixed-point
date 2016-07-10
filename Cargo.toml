@@ -1,0 +1,7 @@
+[package]
+name = "elo"
+version = "0.0.1"
+authors = ["sam.mccall@gmail.com"]
+
+[dependencies]
+ordered-float = "0.2.1"
